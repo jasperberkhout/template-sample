@@ -1,0 +1,9 @@
+{
+	"templateName":"TEMPLATENAME",
+	"copyright":"Mainpixel.nl",
+	"paths":{
+		"media":"media",
+		"assets":"assets",
+		"layouts":"layouts"
+	}
+}
